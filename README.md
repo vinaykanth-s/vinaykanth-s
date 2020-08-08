@@ -1,6 +1,6 @@
 # Hi, I'm Vinay Kanth 👋🏾 👩🏾‍💻
 
-<p>I'm an aspiring Front-end developer trained at Masai School Coding bootcamp. Looking forward to join a company where I shall be able to contribute towards individual and company's growth. </p>
+<p>I'm an aspiring Front-end developer trained at Masai School coding bootcamp. Looking forward to join a company where I shall be able to contribute towards individual and company's growth. </p>
 
 
 <p align='center'>
