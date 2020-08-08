@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Vinay Kanth 👋🏾 👩🏾‍💻
 
+I'm an aspiring Front-end developer trained at Masai School Coding bootcamp. Looking forward to join a company where I shall be able to contribute towards individual and company's growth. 
 <!--
 **vinaykanth-edu/vinaykanth-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
