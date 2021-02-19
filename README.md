@@ -12,5 +12,5 @@
 
 - 🔭 I’m currently working on React
 - 🌱 Learning MERN stack
-- 👯 I’m working as a Front-End developer at Askadmissions.ai.
+- 👯 I’m working as a Front-End developer at <a href="https://askadmissions.ai">Askadmissions.ai</a>.
 - 📫 How to reach me: vinaykanth.edu@gmail.com
