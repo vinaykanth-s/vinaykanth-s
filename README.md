@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🌱 I’m currently working on implementing fullstack web applications using MERN stack.
+- 🌱 I am in the process of learning how to develop fullstack web applications using the MERN stack.
 - 🤔 What I want to learn next: TypeScript & Testing JavaScript by [Kent C Dodds](https://testingjavascript.com/)
 - 📫 How to reach me: `hi@vinaykanth.com`
 
