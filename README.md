@@ -1,4 +1,4 @@
-# Vinay Kanth 👋🏾 👩🏾‍💻
+# Vinay Kanth
 
 👋 Hi, I'm Vinay Kanth. I am a Software Engineer at Venuesavvy Services, working on [AskAdmissions.ai](https://www.askadmissions.ai) project. I have implemented its dashboard application completely from scratch using JavaScript, React, MobX.
 
