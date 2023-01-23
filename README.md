@@ -1,11 +1,11 @@
 # Vinay Kanth
 
-👋 Hi, I'm Vinay Kanth. I am a Software Engineer at Venuesavvy Services, working on [AskAdmissions.ai](https://www.askadmissions.ai) project. I have implemented its dashboard application completely from scratch using JavaScript, React, MobX.
+👋 Hi, I'm Vinay Kanth. I am a Frontend Engineer at Venuesavvy Services, working on [AskAdmissions.ai](https://www.askadmissions.ai) project. I have implemented its dashboard application completely from scratch using JavaScript, React, MobX & Material UI.
 
 ## About Me
 
-- 🌱 I am in the process of learning how to develop fullstack web applications using the MERN stack.
-- 🤔 What I want to learn next: TypeScript & Testing JavaScript by [Kent C Dodds](https://testingjavascript.com/)
+- 🌱 I am learning Testing JavaScript by [Kent C Dodds](https://testingjavascript.com/)
+- 🤔 What I want to learn next: TypeScript
 - 📫 How to reach me: `hi@vinaykanth.com`
 
 ## 🔧 Tools I Like To Use
