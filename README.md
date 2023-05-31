@@ -1,6 +1,6 @@
 # Vinay Kanth
 
-👋 Hi, I'm Vinay Kanth. I am a Frontend Engineer at Venuesavvy Services, working on [AskAdmissions.ai](https://www.askadmissions.ai) project. I have implemented its dashboard application completely from scratch using JavaScript, React, MobX & Material UI.
+👋 Hi, I'm Vinay Kanth. I am a Frontend Engineer at Surreal Technologies, working on [Newton Classroom ERP](https://newtonclassroom.com/) SAAS product. 
 
 ## About Me
 
