@@ -1,6 +1,6 @@
 # Vinay Kanth
 
-👋 Hi, I'm Vinay Kanth. a Frontend Engineer at Surreal Technologies, building [Newton Classroom](https://newtonclassroom.com/). 
+👋 Hi, I'm Vinay Kanth. Frontend Engineer at Surreal Technologies, building [Newton Classroom](https://newtonclassroom.com/) a complete ERP solution for schools. 
 
 ## About Me
 
